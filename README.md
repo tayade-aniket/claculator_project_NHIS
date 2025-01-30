@@ -32,8 +32,7 @@ To work on this project, you need to have the following installed:
 * Python 3.x
 
 * Visual Studio Code (or your preferred IDE)
-
-* 
+ 
 
 ## Installation
 
@@ -55,7 +54,7 @@ Open the project in Visual Studio Code and start coding!
 ## Screenshot
 Below is an example of the expected GUI layout of the calculator application:
 
-![calculator](assets/Screenshot.png)
+![calculator](assets/Screenshot.PNG)
 
 
 
