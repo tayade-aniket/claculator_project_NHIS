@@ -54,7 +54,12 @@ Open the project in Visual Studio Code and start coding!
 ## Screenshot
 Below is an example of the expected GUI layout of the calculator application:
 
+#### Light Theme
 ![calculator](assets/Screenshot.PNG)
+
+#### Dark Theme
+![calculator](assets/Screenshot2.PNG)
+
 
 
 
